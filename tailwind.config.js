@@ -1,4 +1,4 @@
-export const content = ["./*.html", "./src/**/*.css"];
+export const content = ["./*.{html,js}","./src/**/*.css"];
 export const theme = {
   extend: {
     fontFamily: {
